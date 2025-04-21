@@ -89,3 +89,5 @@ This SQL schema includes tables for the following:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/USERNAME/YourSQLProject.git
+
+MADE BY : Fatma Badwy.
